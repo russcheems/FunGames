@@ -1,2 +1,2 @@
-# fungames
+# FunGames
 still loading...
