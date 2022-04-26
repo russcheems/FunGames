@@ -94,5 +94,5 @@ def final_calendar():
     print("Mon\tTue\tWed\tThu\tFri\tSat\tSun\t")
     create_calendar(day,b)
 
-if __name__ == "__name__":
+if __name__ == "__main__":
     final_calendar()
